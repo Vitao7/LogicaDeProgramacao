@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668302713 source:c:\users\agatha rosário\desktop\hello_word\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668449825 source:c:\users\agatha rosário\desktop\logica de programação\hello_word\main.c
+	<stdio.h>
+	<stdlib.h>
+

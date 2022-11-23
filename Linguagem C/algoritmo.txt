@@ -1,0 +1,77 @@
+Quando eu comprar um ingresso de cinema, 
+validar quando eu posso entrar
+
+algoritmo
+
+Precisamos de duas variaveis para esse pg:
+horario do filme, horario atual 
+
+
+
+// Entrar no cimena
+
+INICIO ALGORITMO
+
+var horarioFilme, horarioAtual
+
+se horarioFilme >= horarioAtual
+
+Pode entrar no cinema
+
+fimse
+
+caso contrario 
+
+Vamos esperar
+
+fim
+
+
+
+FIM ALGORITMO
+
+
+INICIO ALGORITMO
+
+var horarioFilme, horarioAtual
+
+se horarioFilme >= horarioAtual E horarioAtual <= horarioFilme +30
+
+Pode entrar no cinema
+
+fimse
+
+caso contrario 
+
+Vamos esperar
+
+fim
+
+
+
+FIM ALGORITMO
+
+
+
+
+
+
+
+
+
+
+
+
+// ALGORITMO 
+
+INICIO ALGORITMO
+
+var anoNascimento, anoAtual
+
+mostrar na tela: minha idade é: (autal - nascimento)
+
+ 
+
+
+
+FIM ALGORITMO
